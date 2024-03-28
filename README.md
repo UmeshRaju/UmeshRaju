@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m currently pursuing B-Tech in Computer Science And Engineering at Puducherry Technological University 
 - 📫 How to reach me ... linkedin.com/in/kondiumeshraju
-- 
+  
 
 
 <!---
